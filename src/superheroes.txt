@@ -1,0 +1,10 @@
+M012;Spiderman;Peter Parker;Un adolescente es picado por una aranya radiactiva y se compra un pijama azul y rojo.
+D001;Batman;Bruce Wayne;El hijo de un multimillonario se compra cacharros muy caros y se convierte en el caballero oscuro.
+D021;Superman;Clark Kent;Un hombre se quita las gafas, se pone una capa y nadie le reconoce.
+M024;IronMan;Tony Stark;Un muchacho muy rico que tiene una torre con su nombre.
+M006;Captain America;Steve Rogers;Un soldado que lleva un escudo que pesa mucho y que hace muchos chistes en un ascensor.
+M028;Thor;Thor;Hijo de Odin, vive en Australia y es el marido de Elsa Pataky.
+D013;Flash;Barry Allen;Un forense cientifico que corre que se las pela.
+D097;Wonder woman;Diana Prince;Princesa guerrera de las amazonas que cuando se quita la diadema pasa inadvertida.
+D229;Aquaman;Arthur Curry;Khal Drogo con banyador y un tenedor muy grande.
+M098;Hulk;Bruce Banner;Un cientifico que se hace muy grande cuando se pone verde de envidia.
